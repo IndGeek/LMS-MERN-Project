@@ -1,3 +1,6 @@
+body{
+    padding:10px;
+}
 .round-corner{
     border-radius:7px;
     margin:10px;
