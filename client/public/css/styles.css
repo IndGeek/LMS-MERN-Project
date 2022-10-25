@@ -1,0 +1,9 @@
+.round-corner{
+    border-radius:7px;
+    margin:10px;
+}
+
+.jumbotron{
+    background-image: linear-gradient(to right, #007bff, #000);
+    color:white;
+}
